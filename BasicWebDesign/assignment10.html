@@ -1,20 +1,24 @@
 <style>
   section.grid-container {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     grid-template-row: repeat(2, 1fr);
-    background-color: purple;
-    padding: 10px;
+    background-color: teal;
+    padding: 15px;
   }
   section div.grid-item {
     background-color: rgba(255, 255, 255, 0.8);
     border: 1px solid rgba(0, 0, 0, 0.8);
-    padding: 5px;
-    font-size: 1.2em;
+    padding: 0px;
+    font-size: 1.5em;
     text-align: center;
   }
 </style>
 <section class="grid-container">
+  <div class="grid-item">Name:</div>
+  <div class="grid-item">Puzzle:</div>
+  <div class="grid-item">Result:</div>
+  <div class="grid-item">Date:</div>
   <div class="grid-item"> Miranda Medema</div>
   <div class="grid-item"> Snowman puzzle</div>
   <div class="grid-item"> enter image here</div>
