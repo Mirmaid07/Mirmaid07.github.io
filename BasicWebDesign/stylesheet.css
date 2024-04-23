@@ -1,4 +1,5 @@
- table, tr, td {
+<style> 
+table, tr, td {
     border: 1px solid black;
     font-size:12px;
     padding:5px;
@@ -11,3 +12,4 @@
         font-size:16px;
         font-width:bold;
     }
+</style>
