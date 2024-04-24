@@ -1,6 +1,7 @@
 <style> 
 table{
     border:1px solid black;
+    background-color: blue;
 }
 table, td, tr{
     border:3px solid black;
