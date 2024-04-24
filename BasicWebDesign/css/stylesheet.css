@@ -1,10 +1,9 @@
 <style> 
 table, td, tr{
     border:3px solid black;
-    font-size:12px;
+    font-size:20px;
     padding:15px;
     margin:15px;
-    background-color: light blue;
     }
 
    td, tr{ font-color:black;
