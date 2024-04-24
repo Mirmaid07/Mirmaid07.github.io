@@ -17,4 +17,7 @@ table, td, tr{
         font-size:16px;
         font-width:bold;
     }
+td:last-of-type{
+    border:1px solid blue
+}
 </style>
