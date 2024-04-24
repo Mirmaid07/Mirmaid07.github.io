@@ -1,11 +1,13 @@
 <style> 
-table {
+table{
     border:3px solid black;
     font-size:12px;
     padding:15px;
     margin:15px;
     background-color: light blue;
-    font-color:black;
+    }
+
+   td, tr{ font-color:black;
     font-family: optima, sans-serif;
     }
     th {
