@@ -1,13 +1,10 @@
 <style>
-body{
-  background-color:rgb(255,218,200)
-}
 p{ 
   font-family: optima, sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   font-color: grey;
 }
-h2{
+h1{
   font-family:garamond, serif;
   font-width:bold;
 }
