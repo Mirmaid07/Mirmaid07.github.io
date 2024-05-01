@@ -6,10 +6,12 @@
       border-radius: 100px 100px 100px 100px/150px 150px 150px 150px;
     }
     divtictacfootball{ 
-      filter:grayscale(75%);
+      filter:grayscale(100%);
       background-image:url(football_field.jpg, tic-tac-toe.png);
       border:27px solid #000;
       border-image:url(tic-tac-toe.png) 27 round;
+      border-image-source: url(tic-tac-toe.png);
+      border-image-slice: 27;
     }
     divdino{
       backround-image:url(dinosaur.png);
@@ -37,7 +39,8 @@
       <img src="./imitation/penguins.jpg" alt="penguin group" />
     </divpenguin>
     <divtictacfootball>
-      <img src="./imitation/football_field.jpg" alt="football" field/>
+      <img src="./imitation/football_field.jpg" alt="football field"/>
+      <img src="./imitation/tic-tac-toe.png" alt="tictactoe"/>
     </divtictacfootball>
      <divdino>
       <img src="./imitation/dinosaur.png" alt="blue dinosaur" />
