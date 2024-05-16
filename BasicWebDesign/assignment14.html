@@ -22,6 +22,9 @@
       width:75%;
       transition: width 3s, height 2s;
       font-size:30px;
+      animation-name:animation2;
+      animation-duration:4s ease;
+      animation-iteration-count:infinite;
     }
     div.answers{
     background-color:rgb(177,156,237);
@@ -37,6 +40,10 @@
     @keyframes animation1{
       from{border:dotted;}
       to{border:solid;}
+    }
+    @keyframes animation2{
+      from{color:white}
+      to{color:rgb(173,216,260)}
     }
   </style>
   <title> Review Cards Assignment</title>
