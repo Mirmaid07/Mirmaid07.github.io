@@ -1,4 +1,9 @@
 <style>
+      body{
+            background-color:rgb(123, 158, 189);
+            color:rgb(245, 245, 220);
+            font-family: optima, sans-serif;
+      }
       div{
         background-color: grey;
         border: thin rgb(245, 245, 220) dashed;
