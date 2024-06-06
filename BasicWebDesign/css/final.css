@@ -1,10 +1,10 @@
 <style>
       div{
         background-color: grey;
-        border: thin rgb(245, 245, 220) dashed;
+        border: thick rgb(245, 245, 220) dashed;
         font-family: optima, sans-serif;
-        padding:5px;
-        color: rgb(245, 245, 220);
+        padding: 7px;
+        color: white;
       }
        body{
              background-color: rgb(123, 158, 189);
@@ -24,6 +24,8 @@
         border: thin rgb(245, 245, 220) solid;
         font-family: optima, sans-serif;
         padding:5px;
+        float: left;
+        margin-right: 10px;
       }
       section.container{
         display:flex;
