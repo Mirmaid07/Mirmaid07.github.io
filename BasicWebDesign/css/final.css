@@ -4,6 +4,7 @@
         border: thin rgb(245, 245, 220) dashed;
         font-family: optima, sans-serif;
         padding:5px;
+        color: rgb(245, 245, 220);
       }
       .links:visited{
         color: rgb(245, 245, 220);
