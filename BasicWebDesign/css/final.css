@@ -1,27 +1,32 @@
 <style>
-      body {
-       background-color:rgb(123, 158, 189);
-       color:rgb(245, 245, 220);
+      body{
+       background-color: rgb(123, 158, 189);
+       color: white;
        font-family: optima, sans-serif;
       }
-      div {
+      div{
         background-color: grey;
         border: thin rgb(245, 245, 220) dashed;
         font-family: optima, sans-serif;
         padding:5px;
       }
-      .links:visited {
+      .links:visited{
         color: rgb(245, 245, 220);
       }
-      .links:hover {
+      .links:hover{
         color: rgb(123, 158, 189);
         font-weight:bold;
         font-size:18px;
       }
-      table, tr, td {
+      table, tr, td{
         background-color: grey;
         border: thin rgb(245, 245, 220) solid;
         font-family: optima, sans-serif;
         padding:5px;
+      }
+      section.container{
+        display:flex;
+        flex-direction:row;
+        justify-content: space-between;
       }
  </style>
