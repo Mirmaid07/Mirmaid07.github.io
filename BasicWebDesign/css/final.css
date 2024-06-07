@@ -45,4 +45,7 @@
       ul{
         list-style-type: square;
       }
+      img{
+            padding:5px;
+      }
  </style>
