@@ -1,7 +1,10 @@
 <style>
+      div.experiment{
+            background-color: blue
+      }
       div{
             background-color: grey;
-            border: thick rgb(245, 245, 220) dashed;
+            border: thin white dashed;
             font-family: optima, sans-serif;
             padding: 7px;
             color: white;
