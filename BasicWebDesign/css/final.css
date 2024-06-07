@@ -31,6 +31,12 @@
       table{ 
             float: left;
       }
+      .floatl{
+            float:left;
+      }
+      .floatr{
+            float:right;
+      }
       section.container{
         display:flex;
         flex-direction:row;
