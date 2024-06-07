@@ -12,19 +12,21 @@
              font-family: optima, sans-serif;
        }
       .links:visited{
-        color: white;
+            color: white;
       }
       .links:hover{
-        color: rgb(123, 158, 189);
-        font-weight: extra bold;
-        font-size:18px;
+            color: rgb(123, 158, 189);
+            font-weight: extra bold;
+            font-size:18px;
       }
       table, tr, td{
-        background-color: grey;
-        border: thin white solid;
-        font-family: optima, sans-serif;
-        padding:5px;
-        float: left;
+            background-color: grey;
+            border: thin white solid;
+            font-family: optima, sans-serif;
+            padding:5px;
+      }
+      table{ 
+            float: left;
       }
       section.container{
         display:flex;
